@@ -8,6 +8,7 @@ Letras: https://fonts.google.com/
 
 Edificios sacados de la constructora "ARMAS": https://www.iarmas.cl/
 
+FrameWork de diseño: Bootstrap
 
 
 La empresa representada "LM Seguridad Privada" es veridica y se puede encontrar en diferentes medios.
