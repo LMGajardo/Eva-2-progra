@@ -50,7 +50,7 @@ body{
     display: inline-block;
     text-decoration: none;
     padding: 12px 15px;
-    background: #a18cd1 ;
+    background: #62499e ;
     border-radius: 8px;
     color: #fff;
 }
@@ -84,7 +84,7 @@ body{
 }
 
 .titulo.left{
-    text-align: left;
+    text-align: center;
 }
 
 /* Secciones */
@@ -110,7 +110,7 @@ body{
 .cta{
     display: inline-block;
     text-decoration: none;
-    background-image: linear-gradient(45deg,#ebd9d9 0%, #fad0c4, #fad0c4 100%);
+    background-image: linear-gradient(45deg,#00fecb 0%, #008fe8, #64c4ff 100%);
     padding: 12px 15px;
     border-radius: 8px;
     color: #fff;
