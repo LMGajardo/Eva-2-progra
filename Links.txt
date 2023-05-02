@@ -1,14 +1,3 @@
-Iconos sacados de: https://www.flaticon.es/ y https://fontawesome.com/
+https://youtu.be/qFjcJs0b2Dk
 
-Estilo ola sacado de: https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
-
-Información de páginas: youtube.com y w3schools.com
-
-Letras: https://fonts.google.com/
-
-Edificios sacados de la constructora "ARMAS": https://www.iarmas.cl/
-
-FrameWork de diseño: Bootstrap
-
-
-La empresa representada "LM Seguridad Privada" es veridica y se puede encontrar en diferentes medios.
+https://github.com/LMGajardo/Eva-2-progra
